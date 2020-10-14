@@ -1,1 +1,1 @@
-# c-
+# c++ is too hard
